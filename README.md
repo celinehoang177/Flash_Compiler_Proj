@@ -1,4 +1,4 @@
-# Flash Compiler
+# Flash Compiler (C++)
 
 The Flash Compiler is a lightweight and high-performance programming language compiler implemented in C++. This project aims to deliver a streamlined and efficient compiler while serving as a reference for compiler construction.
 
