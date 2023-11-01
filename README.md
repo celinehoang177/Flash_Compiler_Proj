@@ -19,7 +19,7 @@ The Flash Compiler supports a range of essential language features, including:
 - Conditional statements (leveraging the `if` keyword)
 - An `exit` statement for orderly program termination
 
-## Running the Compiler
+## Running Flash
 
 To compile the Flash Compiler, ensure that you have `nasm` and `ld` installed on a Linux-based operating system. Follow these steps to build the compiler:
 
