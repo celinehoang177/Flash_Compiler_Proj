@@ -24,7 +24,7 @@ The Flash Compiler supports a range of essential language features, including:
 To compile the Flash Compiler, ensure that you have `nasm` and `ld` installed on a Linux-based operating system. Follow these steps to build the compiler:
 
 ```bash
-git clone https://github.com/celinehoang177/flash-compiler
+git clone https://github.com/celinehoang177/Flash_Compiler_Proj
 cd flash-compiler
 mkdir build
 cmake -S . -B build
