@@ -6,7 +6,7 @@ The Flash Compiler is a lightweight and high-performance programming language co
 
 - **Simplicity:** Flash has been intentionally kept minimal to provide a solid foundation for comprehending the fundamental concepts of compiler construction.
 
-- **Swift Compilation:** It generates x86-64 assembly code, making it efficient for small to medium-sized programs.
+- **Fast Compilation:** It generates x86-64 assembly code, making it efficient for small to medium-sized programs.
 
 - **User-Friendly Syntax:** Flash adopts a straightforward and intuitive syntax that is accessible to both beginners and experienced programmers.
 
