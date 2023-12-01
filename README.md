@@ -31,4 +31,3 @@ cmake -S . -B build
 cmake --build build
 ```
 
-Explore the world of compiler construction with my Flash Compiler! 🚀
